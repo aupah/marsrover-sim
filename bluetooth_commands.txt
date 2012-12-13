@@ -1,0 +1,8 @@
+m<int distance> // move the specified distance, positive numbers are fwrd negetive are bkwrds;
+s// when an s is received the bot automatically stops;
+r<int degrees> // rotates bot set amount of degrees, pos = right, neg = left;
+l bot scans the area with the turret(l short for look);
+// any other segestions for commands would be appreciated;
+when ever the bot is moving in any vapacity it is pilling the bump, cliff and other sensors
+if one iof these sensoe is tripped the boit will stop all movement and re turn the reason for 
+stopping in cludoing receiving an 's' character.
